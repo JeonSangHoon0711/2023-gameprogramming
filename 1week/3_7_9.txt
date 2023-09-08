@@ -1,0 +1,20 @@
+현재시간을 시드값으로 잡고 (항상랜덤하게나옴)
+(double)RAND_MAX; 로 나눠서
+0~1 사이의 실수들이 6자리공간에 소수점아래4번쨰까지 5번 나오는 코드다.
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+int main(void)
+{
+   int i;
+   double rnd;
+   srand(time(NULL));
+   for(i=1;i<=5;i++)
+   {
+      rnd=rand()/(double)RAND_MAX;
+      printf("%6.4f\n", rnd);
+   }
+   return 0;
+}
