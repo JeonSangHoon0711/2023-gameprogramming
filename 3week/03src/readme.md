@@ -17,7 +17,7 @@
 <img src="https://github.com/JeonSangHoon0711/2023-gameprogramming/blob/main/3week/image/6_1_1.png?raw=true">  
 예제 6_2_1.cpp  
 입력된 숫자만큼 슬라이드바를 만들어 주는 프로그램  
-<img src="https://github.com/JeonSangHoon0711/2023-gameprogramming/blob/main/3week/image/6_2_1.png?raw=true">  
+<img src="https://github.com/JeonSangHoon0711/2023-gameprogramming/blob/main/3week/image/6_2_1.PNG?raw=true">  
 <img src="https://github.com/JeonSangHoon0711/2023-gameprogramming/blob/main/3week/image/6_2_1_1.png?raw=true">  
 예제 6_3_1.cpp  
 블럭을 이동시키거나 회전시키는 프로그램  
