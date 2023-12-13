@@ -11,3 +11,5 @@ gotoxy() 함수는 콘솔 창에서 커서의 위치를 조정하는 역할을 �
 
 사용자로부터의 입력을 받아 처리하는 기능이 구현되어 있습니다. getch()함수로 사용자로부터 문자 하나를 읽어 들이고, 만약 동일한 숫자가 빠르게 연속으로 입력되면 해당 숫자와 매핑된 다음 알파벳이 출력됩니다.
 
+
+<img src="https://github.com/JeonSangHoon0711/2023-gameprogramming/blob/main/4week/image.png?raw=true">
