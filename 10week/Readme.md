@@ -1,4 +1,4 @@
-#10주차 발표자료는 9week 에 있음, 다음 주 발표 자료
+# 10주차 발표자료는 9week 에 있음, 다음 주 발표 자료
 
 https://jeonsanghoon0711.github.io/slidingpuzzle/2019775054.html
 
